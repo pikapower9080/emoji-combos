@@ -1,8 +1,5 @@
-# React + Vite
+# Emoji Combos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A list of neat emoji combos to use in your conversations.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![A screenshot of the interface showing the emoji combos](https://raw.githubusercontent.com/pikapower9080/emoji-combos/main/screenshot.png)
