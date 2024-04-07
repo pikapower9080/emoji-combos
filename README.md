@@ -1,4 +1,4 @@
-# Emoji Combos
+# [Emoji Combos](https://emoji-combos.pikarocks.dev/)
 
 A list of neat emoji combos to use in your conversations.
 
